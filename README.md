@@ -1,5 +1,6 @@
 - 🌱 I’m currently learning Python, HTML and CSS
 - 📫 How to reach me: gui.emanuelli@gmail.com
+- ⚡ Portfolio: guilhermeemanuelli.site
 
 <div>
    <a href="https://github.com/Guirsbr">
