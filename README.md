@@ -1,4 +1,12 @@
-## Hi there 👋
+🌱 I’m currently learning Python, HTML and CSS
+📫 How to reach me: gui.emanuelli@gmail.com
+
+<div>
+   <a href="https://github.com/Guirsbr">
+     <img height= "167em" src="https://github-readme-stats.vercel.app/api?username=Guirsbr&show_icons=true&theme=github_dark"&count_private=true/>
+     <img height= "167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guirsbr&layout=compact&theme=github_dark&count_private=true"/>
+   </a>
+</div>
 
 <!--
 **Guirsbr/Guirsbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
